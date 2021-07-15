@@ -28,7 +28,6 @@ django-filter==2.4.0
 django-tailwind==2.0.1
 djangorestframework==3.12.4
 entrypoints==0.3
-Flask==1.1.2
 gitdb==4.0.7
 GitPython==3.1.14
 graphics.py==5.0.1.post1
@@ -90,16 +89,7 @@ pycparser==2.20
 pyflakes==2.3.1
 Pygments==2.8.1
 PyJWT==1.7.1
-pyparsing==2.4.7
-pyperclip==1.8.2
-pypiwin32==223
-pyreadline==2.1
-pyrsistent==0.17.3
-python-dateutil==2.8.1
-python-slugify==5.0.2
-pyttsx3==2.90
 pytz==2021.1
-pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq==22.0.3
 qtconsole==5.0.3

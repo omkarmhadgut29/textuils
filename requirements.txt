@@ -80,7 +80,6 @@ pandocfilters==1.4.3
 parso==0.7.1
 pbr==5.6.0
 pickleshare==0.7.5
-Pillow==8.2.0
 ply==3.11
 poyo==0.5.0
 prometheus-client==0.10.1
@@ -100,7 +99,6 @@ python-dateutil==2.8.1
 python-slugify==5.0.2
 pyttsx3==2.90
 pytz==2021.1
-pywin32==300
 pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq==22.0.3
